@@ -4,9 +4,7 @@ Script de Powershell que permite aplicar imagens de wallpaper e lockscreen pelo 
 
 ## **Conteúdo:**
 
-Config Windows LAPS.ps1
-
-Config Windows LAPS.exe
+Script Wallpaper e Lockscreen no Intune.ps1
 
 ## **Mais informações:**
 
