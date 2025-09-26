@@ -3,7 +3,7 @@ Script de Powershell que permite aplicar imagens de wallpaper e lockscreen pelo 
 
 <img width="567" height="436" alt="image" src="https://github.com/user-attachments/assets/9de0a1f6-54a0-46fc-a389-cd7a73422796" />
 
-## **Conteúdo:**
+## **Conteúdos:**
 
 Script Wallpaper e Lockscreen no Intune.ps1
 
