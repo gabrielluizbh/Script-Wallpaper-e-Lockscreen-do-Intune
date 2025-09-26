@@ -6,6 +6,7 @@ Script de Powershell que permite aplicar imagens de wallpaper e lockscreen pelo 
 ## **Conteúdos:**
 
 Script Wallpaper e Lockscreen no Intune.ps1
+Script de remoção do Wallpaper e Lockscreen no Intune.ps1
 
 ## **Mais informações:**
 
