@@ -1,4 +1,4 @@
-# Melhorias adicionadas ao novo script Wallpaper e Lockscreen.
+# Melhorias adicionadas ao novo script Wallpaper e Lockscreen
 
 A nova versão recebeu melhorias importantes para tornar o gerenciamento das imagens mais simples, rápido e automatizado.
 
