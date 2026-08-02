@@ -9,7 +9,8 @@ Script Wallpaper e Lockscreen no Intune.ps1
 
 Script de remoção do Wallpaper e Lockscreen no Intune.ps1
 
-## **Atenção:** Consulte a atualização para conhecer as melhorias e baixar as versões mais recentes dos scripts.
+> [!WARNING]
+> **Atenção:** Consulte a atualização para conhecer as melhorias e baixar as versões mais recentes dos scripts.
 
 ## **Mais informações:**
 
