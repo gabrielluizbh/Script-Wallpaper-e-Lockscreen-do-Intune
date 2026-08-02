@@ -21,7 +21,9 @@ Outra melhoria importante foi a **criação de um arquivo de log**, que registra
 
 Além disso, foi desenvolvido um script de remoção que exclui todas as configurações criadas pela solução, incluindo arquivos, imagens e tarefas agendadas. Essa opção pode ser utilizada, por exemplo, quando a empresa decidir migrar para a política nativa de aplicação de wallpaper disponibilizada pelo Microsoft Intune.
 
-<img width="567" height="436" alt="image" src="https://github.com/user-attachments/assets/9de0a1f6-54a0-46fc-a389-cd7a73422796" />
+<img width="1630" height="920" alt="script-wallpaper-lockscreen-remove-1" src="https://github.com/user-attachments/assets/67b1b6b7-fa88-4889-b714-0a3e8c43ecfc" />
+
+<img width="1630" height="920" alt="script-wallpaper-lockscreen-remove-2" src="https://github.com/user-attachments/assets/35e6859a-11e0-4429-adf3-aa7ec9efe2e0" />
 
 ## **Conteúdos:**
 
