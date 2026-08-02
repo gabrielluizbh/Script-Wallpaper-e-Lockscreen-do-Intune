@@ -6,7 +6,7 @@ O script agora verifica o hash das imagens aplicadas no Windows. Caso a imagem a
 
 Isso significa que não é necessário alterar o nome do arquivo ou recriar o pacote no Microsoft Intune. Basta substituir a imagem na origem, mantendo o mesmo nome, para que a atualização seja realizada automaticamente.
 
-Também foi adicionada uma tarefa no Agendador de Tarefas do Windows, configurada para executar diariamente nos seguintes horários:
+Também foi adicionada uma tarefa no **Agendador de Tarefas do Windows**, configurada para executar diariamente nos seguintes horários:
 •	08h;
 •	12h;
 •	16h.
@@ -15,7 +15,7 @@ Também foi adicionada uma tarefa no Agendador de Tarefas do Windows, configurad
 
 Durante essas execuções, o script verifica se existem alterações nas imagens e, quando necessário, realiza o download e a aplicação da nova versão.
 
-Outra melhoria importante foi a criação de um arquivo de log, que registra as verificações, downloads, atualizações e demais atividades realizadas pelo script. Isso facilita o acompanhamento e a solução de possíveis problemas durante a implantação.
+Outra melhoria importante foi a **criação de um arquivo de log**, que registra as verificações, downloads, atualizações e demais atividades realizadas pelo script. Isso facilita o acompanhamento e a solução de possíveis problemas durante a implantação.
 
 ![alt text](script-wallpaper-lockscreen-log-eventos.png)
 
