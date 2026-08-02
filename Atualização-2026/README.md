@@ -11,13 +11,15 @@ Também foi adicionada uma tarefa no **Agendador de Tarefas do Windows**, config
 •	12h;
 •	16h.
 
-![alt text](script-wallpaper-lockscreen-agendador.png)
+<img width="1677" height="920" alt="script-wallpaper-lockscreen-agendador" src="https://github.com/user-attachments/assets/06538de5-e0f2-4692-be33-b310a38efbf4" />
+
 
 Durante essas execuções, o script verifica se existem alterações nas imagens e, quando necessário, realiza o download e a aplicação da nova versão.
 
 Outra melhoria importante foi a **criação de um arquivo de log**, que registra as verificações, downloads, atualizações e demais atividades realizadas pelo script. Isso facilita o acompanhamento e a solução de possíveis problemas durante a implantação.
 
-![alt text](script-wallpaper-lockscreen-log-eventos.png)
+<img width="1677" height="920" alt="script-wallpaper-lockscreen-log-eventos" src="https://github.com/user-attachments/assets/31bce379-2171-4ada-a869-8d91ba598153" />
+
 
 Além disso, foi desenvolvido um script de remoção que exclui todas as configurações criadas pela solução, incluindo arquivos, imagens e tarefas agendadas. Essa opção pode ser utilizada, por exemplo, quando a empresa decidir migrar para a política nativa de aplicação de wallpaper disponibilizada pelo Microsoft Intune.
 
