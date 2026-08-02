@@ -29,7 +29,7 @@ Além disso, foi desenvolvido um script de remoção que exclui todas as configu
 
 ## **Conteúdos:**
 
-Script Wallpaper e Lockscreen no Intune-V2.ps1
+Script Remover Wallpaper e Lockscreen do Intune-v2.ps1
 
 Script de remoção do Wallpaper e Lockscreen no Intune-V2.ps1
 
