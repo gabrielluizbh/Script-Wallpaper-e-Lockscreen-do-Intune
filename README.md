@@ -1,7 +1,8 @@
 # Script Wallpaper e Lockscreen do Intune
 Script de Powershell que permite aplicar imagens de wallpaper e lockscreen pelo Intune.
 
-<img width="567" height="436" alt="image" src="https://github.com/user-attachments/assets/9de0a1f6-54a0-46fc-a389-cd7a73422796" />
+<img width="1536" height="1024" alt="ChatGPT Image 2 de ago  de 2026, 20_03_53" src="https://github.com/user-attachments/assets/0a8af512-863a-4fa0-b962-4049473c26d6" />
+
 
 ## **Conteúdos:**
 
